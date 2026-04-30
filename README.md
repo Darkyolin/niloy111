@@ -1,4 +1,5 @@
 # Niloy Raksam
+![profilePicture.jpg]
 
 > Developer · Content Creator · Video Editor · Designer · Artist
 
