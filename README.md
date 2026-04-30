@@ -3,13 +3,16 @@
 
 > Developer · Content Creator · Video Editor · Designer · Artist
 
----
 
-## About Me
+*This text will be italic*  
+_HI nice to meet you guys _
 
-Hi, I'm **niloy111** — a multi-disciplinary creative and developer passionate about building things and telling stories through content, design, and code.
+## About
 
----
+Hi, I'm **Niloy Nickolas Raksam** — a multi-disciplinary creative and developer passionate about building things and telling stories through content, design, and code.
+
+*This text will be italic*  
+_Well Well this is somethings you guys can learn about me _
 
 ## 🛠 Skills
 
